@@ -6,7 +6,7 @@ Bash script to install BitchX really quick
 
 * chmod +x BitchX-Installer.sh
 * ./BitchX-Installer.sh
-And this will begin to install everything you need to run BitchX, then just type to run:
+* And this will begin to install everything you need to run BitchX, then just type to run:
 * BitchX
 
 ![me](https://github.com/abatsakidis/BitchX-Installer/blob/main/BitchX.gif)
